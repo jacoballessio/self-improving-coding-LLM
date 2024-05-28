@@ -1,4 +1,4 @@
-# self-improving-coding-LLM
+# Self Improving Coding LLM
 Coding LLM system that tests and iterates on code until it is successful, and then uses the successful code to further refine the model. 
 This process should make outputs more accurate, but it may also lead to emergent properties (for example, a more accurate coding model might have better reasoning skills).
 
